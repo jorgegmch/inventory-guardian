@@ -63,9 +63,17 @@ No configuration or API keys needed — the database file is created automatical
 
 ## 📸 Screenshots
 
-| All products | Low-stock alerts | Sorted by price |
-|---|---|---|
-| ![All products](docs/all-products.png) | ![Urgent items](docs/urgent-products.png) | ![Sorted by price](docs/sorted-products.png) |
+**All products**
+
+![All products](docs/all-products.png)
+
+**Low-stock alerts**
+
+![Low-stock alerts](docs/urgent-products.png)
+
+**Sorted by price**
+
+![Sorted by price](docs/sorted-products.png)
 
 ---
 
